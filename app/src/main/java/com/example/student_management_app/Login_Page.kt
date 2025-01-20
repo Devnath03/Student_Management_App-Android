@@ -17,3 +17,4 @@ class Login_Page : AppCompatActivity() {
             insets
         }
     }
+}
