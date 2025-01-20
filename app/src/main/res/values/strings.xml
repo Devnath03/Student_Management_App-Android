@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Student_Management_App</string>
+        <string name="logo_description">School Logo</string>
+        <string name="welcome_message">Welcome to Student Management System</string>
+        <string name="username_hint">Username</string>
+        <string name="password_hint">Password</string>
+        <string name="login_button">Login</string>
+        <string name="forgot_password">Forgot Password?</string>
+        <string name="register_now">New User? Register Now</string>
+
 </resources>
