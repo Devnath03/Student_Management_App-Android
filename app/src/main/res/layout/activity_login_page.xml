@@ -12,7 +12,7 @@
         android:id="@+id/logoImageView"
         android:layout_width="120dp"
         android:layout_height="120dp"
-        android:layout_marginTop="55dp"
+        android:layout_marginTop="50dp"
         android:layout_centerHorizontal="true"
         android:src="@drawable/school"
         android:contentDescription="@string/logo_description"
